@@ -22,6 +22,7 @@ import com.intiformation.service.PokemonService;
 public class PokemonController {
 
 	// un commentaire pour verifier sur gitHub
+	// un deuxieme commentaire rajouté par un autre contributeur
 	
 	@Autowired
 	PokemonService pokemonService;
